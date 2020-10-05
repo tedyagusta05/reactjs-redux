@@ -1,0 +1,102 @@
+{
+  "tblusers": [
+    {
+      "id": 1,
+      "nama": "test1 aja",
+      "alamat": "alamat1",
+      "umur": 20,
+      "nohp": "08121212"
+    },
+    {
+      "id": 2,
+      "nama": "test2",
+      "alamat": "alamat2",
+      "umur": 20,
+      "nohp": "08131313"
+    },
+    {
+      "id": 3,
+      "nama": "test3",
+      "alamat": "alamat3",
+      "umur": 20,
+      "nohp": "0814141414"
+    },
+    {
+      "id": 4,
+      "nama": "test4",
+      "alamat": "alamat4",
+      "umur": 20,
+      "nohp": "0815151515"
+    },
+    {
+      "id": 5,
+      "nama": "test5",
+      "alamat": "alamat5",
+      "umur": 20,
+      "nohp": "0816161616"
+    },
+    {
+      "id": 6,
+      "nama": "test6",
+      "alamat": "alamat6",
+      "umur": 20,
+      "nohp": "0816161616"
+    },
+    {
+      "id": 7,
+      "nama": "test7",
+      "alamat": "alamat7",
+      "umur": 20,
+      "nohp": "0816161616"
+    },
+    {
+      "id": 8,
+      "nama": "test8",
+      "alamat": "alamat8",
+      "umur": 20,
+      "nohp": "0816161616"
+    },
+    {
+      "id": 9,
+      "nama": "test9",
+      "alamat": "alamat9",
+      "umur": 20,
+      "nohp": "0816161616"
+    },
+    {
+      "id": 10,
+      "nama": "test10",
+      "alamat": "alamat10",
+      "umur": 20,
+      "nohp": "0816161616"
+    },
+    {
+      "id": 11,
+      "nama": "test11",
+      "alamat": "alamat11",
+      "umur": 20,
+      "nohp": "0816161616"
+    },
+    {
+      "id": 12,
+      "nama": "test12",
+      "alamat": "alamat12",
+      "umur": 20,
+      "nohp": "0816161616"
+    },
+    {
+      "id": 13,
+      "nama": "test13",
+      "alamat": "alamat13",
+      "umur": 20,
+      "nohp": "0816161616"
+    },
+    {
+      "id": 14,
+      "nama": "test14",
+      "alamat": "alamat14",
+      "umur": 20,
+      "nohp": "0816161616"
+    }
+  ]
+}
